@@ -90,3 +90,4 @@ Test all possible combinations of the two push buttons.
 
 The AND and OR logic gate circuits were successfully constructed using a breadboard, two push buttons, LEDs, resistors, jumper wires, and a battery. The two push buttons were used as the input signals and the LEDs indicated the output conditions.  
 The AND gate produced an output only when both inputs were ON, while the OR gate produced an output when either one or both inputs were ON. Thus, the project successfully demonstrated the basic operation and truth tables of AND and OR logic gates using a simple hardware circuit.  
+![AND gate circuit](AND gate.jpeg)
