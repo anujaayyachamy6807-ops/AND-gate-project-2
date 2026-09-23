@@ -10,9 +10,9 @@ Digital logic gates are the basic building blocks of digital electronic systems.
 
 ## **Proposed Solution**
 
-The proposed solution is to construct AND and OR logic gate circuits on a breadboard using two push buttons as input switches and LEDs as visual indicators. The two push buttons represent the input signals, while the output LED indicates the logic condition.  
-In the AND gate, the output LED turns ON only when both push buttons are pressed. In the OR gate, the output LED turns ON when either one or both push buttons are pressed. This provides a simple and practical demonstration of digital logic.  
----
+The proposed solution is to construct AND and OR logic gate circuits on a breadboard using two push buttons as input switches and LEDs as visual indicators. The two push buttons represent the input signals, while the output LED indicates the logic condition.
+In the AND gate, the output LED turns ON only when both push buttons are pressed. In the OR gate, the output LED turns ON when either one or both push buttons are pressed. This provides a simple and practical demonstration of digital logic.
+
 
 ## **Components Required**
 
